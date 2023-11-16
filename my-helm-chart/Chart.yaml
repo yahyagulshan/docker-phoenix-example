@@ -3,7 +3,7 @@ chart:
   version: 0.1.0
   description: A Helm chart for my application
   sources:
-    - https://github.com/username/my-helm-chart.git
+    - https://github.com/yahyagulshan/docker-phoenix-example/blob/master/my-helm-chart/Chart.yaml
 maintainers:
 - name: yahya
   email: your@email.com
