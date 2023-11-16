@@ -1,0 +1,9 @@
+chart:
+  name: my-helm-chart
+  version: 0.1.0
+  description: A Helm chart for my application
+  sources:
+    - https://github.com/username/my-helm-chart.git
+maintainers:
+- name: yahya
+  email: your@email.com
